@@ -1,7 +1,10 @@
 # PacMen-Exercise
 
-Push the “add packman” button to add PackMen images in the windows and push the “start game” button to move those packMen by their own.
+Uses Java Script to move PacMen Images in the window by their own.
 
+how to run: Push the “add PacMan” button to add PacMen images in the windows and push the “start game” button to move those pacMen by their own.
+
+https://github.com/Kuromay5577/PacMen-Exercise
 
 Copyright 2022 COPYRIGHT May Rogers
 
